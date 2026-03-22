@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+trivia.db
+trivia_launcher.json
+
+bot.py.bak
+bot.py.save
+bot.py.stable-working
