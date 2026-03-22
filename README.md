@@ -145,24 +145,19 @@ python bot.py
 ## Screenshots
 
 ### Trivia Launcher
-
-![Trivia launcher](screenshots/Trivia Launcher.jpeg)
+![Trivia launcher](screenshots/trivia-launcher.jpeg)
 
 ### Question Style
-
-![Question style](screenshots/Question Style.jpeg)
+![Question style](screenshots/question-style.jpeg)
 
 ### Game Modes
-
-![Game modes](screenshots/Game Modes.jpeg)
+![Game modes](screenshots/game-modes.jpeg)
 
 ### Leaderboard
-
-![Leaderboard](screenshots/Leaderboard.jpeg)
+![Leaderboard](screenshots/leaderboard.jpeg)
 
 ### Stats
-
-![Player stats](screenshots/Stats.jpeg)
+![Player stats](screenshots/stats.jpeg)
 
 ## Future Improvements
 
