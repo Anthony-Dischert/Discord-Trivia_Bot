@@ -97,8 +97,8 @@ It also gave me hands-on experience with:
 ### 1. Clone the repo
 
 ```bash
-git clone <your-repo-url>
-cd discord-trivia-bot
+git clone https://github.com/Anthony-Dischert/Discord-Trivia_Bot.git
+cd Discord-Trivia_Bot
 ```
 
 ### 2. Create and activate a virtual environment
